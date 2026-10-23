@@ -1,4 +1,4 @@
-# Obstacle Reversi --野力钦25032100050
+# Obstacle Reversi
 
 Obstacle Reversi 是一个带随机障碍物的黑白棋变体。项目包含完整的游戏环境、桌面端、Web 端，以及一套自对弈训练流程。
 
